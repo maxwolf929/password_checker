@@ -32,6 +32,3 @@ post "/show_result" do
 
 	erb :show_result
 end
-
-#erb :show_result, :locals => {:s => params[:s]}
-#erb :show_result, :locals => {:w => params[:w]}
