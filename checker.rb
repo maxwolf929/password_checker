@@ -1,6 +1,7 @@
 ﻿=begin
 <Password Strenght Checker>
-    Copyright (C) <2014>  <Sherif Abdelhay>
+    Copyright (C) <2014>  <maxwolf929>
+	for contact: maxwolf929@gmail.com
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
